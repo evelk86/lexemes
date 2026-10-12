@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "35163a59-77c5-5e72-b73c-1665373255ef",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "jablko"
+    },
+    "target": {
+      "language": "en",
+      "text": "apple",
+      "variants": [
+        "an apple",
+        "apples"
+      ],
+      "sound": {
+        "id": "4e50647f-e6c8-5be2-9d2f-20e36dfe6cf3",
+        "filename": "🍎 apple.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "pear"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "plum"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "banana"
+      },
+      {
+        "type": "TYPO",
+        "text": "aple"
+      },
+      {
+        "type": "TYPO",
+        "text": "appel"
+      }
+    ]
+  },
+  {
+    "id": "13743e9b-a1d6-5d1e-bf0b-d51df88677d9",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "zmrzlina"
+    },
+    "target": {
+      "language": "en",
+      "text": "ice cream",
+      "variants": [
+        "an ice cream",
+        "ice creams"
+      ],
+      "sound": {
+        "id": "fdb8f555-6241-56c2-a631-4a9e3878b93a",
+        "filename": "ice cream 🍦 (final).mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "cake"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "chocolate"
+      },
+      {
+        "type": "TYPO",
+        "text": "ice craem"
+      }
+    ]
+  },
+  {
+    "id": "2328bc91-fb93-5f09-8ccd-e4c707b895a5",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "pes"
+    },
+    "target": {
+      "language": "en",
+      "text": "dog",
+      "variants": [
+        "a dog",
+        "dogs"
+      ],
+      "sound": {
+        "id": "944f6a84-76f8-52d4-8630-35b7e8cdcd6b",
+        "filename": "🐶 dog  v2.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "cat"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "horse"
+      },
+      {
+        "type": "TYPO",
+        "text": "dgo"
+      },
+      {
+        "type": "VISUAL",
+        "text": "bog"
+      },
+      {
+        "type": "VISUAL",
+        "text": "dag"
+      }
+    ]
+  },
+  {
+    "id": "0a93919c-0f80-5890-9f94-b065fecf109f",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "kočka"
+    },
+    "target": {
+      "language": "en",
+      "text": "cat",
+      "variants": [
+        "a cat",
+        "cats"
+      ],
+      "sound": {
+        "id": "c1a4b5f4-4d86-51f5-89ca-6e61cac5b82b",
+        "filename": "cat 🐱.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "dog"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "mouse"
+      },
+      {
+        "type": "VISUAL",
+        "text": "cot"
+      },
+      {
+        "type": "VISUAL",
+        "text": "cut"
+      }
+    ]
+  },
+  {
+    "id": "50d513d0-1440-58a4-b5ea-75ca5b750e96",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "netopýr"
+    },
+    "target": {
+      "language": "en",
+      "text": "bat",
+      "variants": [
+        "a bat",
+        "bats"
+      ],
+      "sound": {
+        "id": "c00146f6-0b9e-5dc6-869c-b05151f51a12",
+        "filename": "bat 🦇🏏.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "owl"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "mouse"
+      }
+    ]
+  },
+  {
+    "id": "0ae8f5c0-3768-569d-94ae-9ae7f232a020",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "pálka"
+    },
+    "target": {
+      "language": "en",
+      "text": "bat",
+      "variants": [
+        "a bat",
+        "bats"
+      ],
+      "sound": {
+        "id": "c00146f6-0b9e-5dc6-869c-b05151f51a12",
+        "filename": "bat 🦇🏏.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "racket"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "ball"
+      },
+      {
+        "type": "TYPO",
+        "text": "batt"
+      }
+    ]
+  },
+  {
+    "id": "8a88905e-13e9-514a-9cf2-4a02a8e1dd6a",
+    "cefr_level": "A1",
+    "part_of_speech": "PHRASE",
+    "source": {
+      "language": "cs",
+      "text": "dobré ráno"
+    },
+    "target": {
+      "language": "en",
+      "text": "good morning",
+      "variants": [],
+      "sound": {
+        "id": "c79af1d4-0322-5f4d-b42f-2e040d5e287b",
+        "filename": "Good morning ☀️.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "good night"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "good afternoon"
+      }
+    ]
+  },
+  {
+    "id": "cbf20c12-8475-5c56-9b35-c65bd02be421",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "kavárna"
+    },
+    "target": {
+      "language": "en",
+      "text": "café",
+      "variants": [
+        "a café",
+        "cafés"
+      ],
+      "sound": {
+        "id": "d02a5c29-6bba-5239-957b-3366f1d46e46",
+        "filename": "café ☕.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "restaurant"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "bakery"
+      },
+      {
+        "type": "TYPO",
+        "text": "caffé"
+      },
+      {
+        "type": "TYPO",
+        "text": "cafe"
+      }
+    ]
+  },
+  {
+    "id": "f00aa0f3-d4eb-5ea3-a00e-bbdda0809d9c",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "učitel"
+    },
+    "target": {
+      "language": "en",
+      "text": "teacher",
+      "variants": [
+        "a teacher",
+        "teachers"
+      ],
+      "sound": {
+        "id": "93a8f615-589f-5a57-86a2-bcd825a7a052",
+        "filename": "👩‍🏫 teacher.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "pupil"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "doctor"
+      },
+      {
+        "type": "TYPO",
+        "text": "teecher"
+      },
+      {
+        "type": "TYPO",
+        "text": "teachr"
+      }
+    ]
+  },
+  {
+    "id": "9a3414e8-603c-5cd1-8c53-2fda6a2dd73a",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "tričko"
+    },
+    "target": {
+      "language": "en",
+      "text": "T-shirt",
+      "variants": [
+        "a T-shirt",
+        "T-shirts"
+      ],
+      "sound": {
+        "id": "69537039-7863-5131-badd-79edde7a2ee2",
+        "filename": "t-shirt 👕 NEW.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "jumper"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "skirt"
+      },
+      {
+        "type": "TYPO",
+        "text": "T-shrit"
+      }
+    ]
+  },
+  {
+    "id": "7119b292-5551-5dcc-bf90-489f0902d6ee",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "bazén"
+    },
+    "target": {
+      "language": "en",
+      "text": "swimming pool",
+      "variants": [
+        "a swimming pool",
+        "swimming pools"
+      ],
+      "sound": {
+        "id": "a0854323-e178-5be2-8aa0-148798aa9bee",
+        "filename": "swimming pool 🏊 .mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "playground"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "beach"
+      }
+    ]
+  },
+  {
+    "id": "c12e2a63-5a67-5590-86e7-5c67a5126bbe",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "babička"
+    },
+    "target": {
+      "language": "en",
+      "text": "grandmother",
+      "variants": [
+        "grandma",
+        "granny",
+        "grandmothers"
+      ],
+      "sound": {
+        "id": "f757b2db-8aeb-5515-830e-1d82c17811a4",
+        "filename": "grandmother 👵🏽.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "grandfather"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "aunt"
+      },
+      {
+        "type": "TYPO",
+        "text": "grandmoter"
+      }
+    ]
+  },
+  {
+    "id": "a69bc785-f1a9-551d-a45b-4ba83c312cf6",
+    "cefr_level": "A1",
+    "part_of_speech": "VERB",
+    "source": {
+      "language": "cs",
+      "text": "běžet"
+    },
+    "target": {
+      "language": "en",
+      "text": "to run",
+      "variants": [
+        "run",
+        "runs",
+        "running",
+        "ran"
+      ],
+      "sound": null
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "to walk"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "to jump"
+      },
+      {
+        "type": "TYPO",
+        "text": "to rnu"
+      }
+    ]
+  },
+  {
+    "id": "e377ff3a-9c48-543a-990d-83550dd4425a",
+    "cefr_level": "A1",
+    "part_of_speech": "ADJECTIVE",
+    "source": {
+      "language": "cs",
+      "text": "šťastný"
+    },
+    "target": {
+      "language": "en",
+      "text": "happy",
+      "variants": [
+        "happier",
+        "the happiest"
+      ],
+      "sound": {
+        "id": "87d23fbc-852f-5d7d-80eb-e3463bb2232b",
+        "filename": "happy 😀😀😀.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "sad"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "angry"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "tired"
+      },
+      {
+        "type": "TYPO",
+        "text": "hapy"
+      },
+      {
+        "type": "TYPO",
+        "text": "happi"
+      }
+    ]
+  },
+  {
+    "id": "69e3f6ce-4ec4-587c-bed1-eb45fdc01c89",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "deštník"
+    },
+    "target": {
+      "language": "en",
+      "text": "umbrella",
+      "variants": [
+        "an umbrella",
+        "umbrellas"
+      ],
+      "sound": null
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "raincoat"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "boots"
+      },
+      {
+        "type": "TYPO",
+        "text": "umbrela"
+      },
+      {
+        "type": "TYPO",
+        "text": "umbrlla"
+      }
+    ]
+  },
+  {
+    "id": "8bb1927c-f9f0-5390-9937-d51a63e6e889",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "pondělí"
+    },
+    "target": {
+      "language": "en",
+      "text": "Monday",
+      "variants": [
+        "on Monday",
+        "Mondays"
+      ],
+      "sound": {
+        "id": "9f7ac6d9-5050-5448-83ed-bdd355058df9",
+        "filename": "monday 📅 copy.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "Tuesday"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "Sunday"
+      },
+      {
+        "type": "TYPO",
+        "text": "Munday"
+      }
+    ]
+  },
+  {
+    "id": "d204a702-9df7-50ba-9ce2-eb9dd93968b7",
+    "cefr_level": "A1",
+    "part_of_speech": "PHRASE",
+    "source": {
+      "language": "cs",
+      "text": "děkuji"
+    },
+    "target": {
+      "language": "en",
+      "text": "thank you",
+      "variants": [
+        "thanks"
+      ],
+      "sound": {
+        "id": "8147cde0-f9d0-5201-9c3d-c3e47856fac7",
+        "filename": "Thank you 🙏 - take 3.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "please"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "sorry"
+      }
+    ]
+  },
+  {
+    "id": "71383009-b59d-5959-9ae7-6d5d82c73cf5",
+    "cefr_level": "A1",
+    "part_of_speech": "PHRASE",
+    "source": {
+      "language": "cs",
+      "text": "Jak se máš?"
+    },
+    "target": {
+      "language": "en",
+      "text": "How are you?",
+      "variants": [],
+      "sound": {
+        "id": "c5f5ca77-3ed0-5f42-adbd-e787051f4f98",
+        "filename": "How are you? 🤔.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "How old are you?"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "Who are you?"
+      }
+    ]
+  },
+  {
+    "id": "97ede8b1-c7fa-5a2e-a48f-7feef68193e5",
+    "cefr_level": "A2",
+    "part_of_speech": "PHRASE",
+    "source": {
+      "language": "cs",
+      "text": "kámen, nůžky, papír"
+    },
+    "target": {
+      "language": "en",
+      "text": "rock, paper, scissors",
+      "variants": [],
+      "sound": {
+        "id": "a8d97899-6f20-5f88-bbb8-c3a56cbd884a",
+        "filename": "rock, paper, scissors ✊✋✌️.mp3"
+      }
+    },
+    "distractors": []
+  },
+  {
+    "id": "6d5f89e5-3f0c-57fd-9fec-b00a185c1315",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "motýl"
+    },
+    "target": {
+      "language": "en",
+      "text": "butterfly",
+      "variants": [
+        "a butterfly",
+        "butterflies"
+      ],
+      "sound": null
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "bee"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "ladybird"
+      },
+      {
+        "type": "TYPO",
+        "text": "buterfly"
+      },
+      {
+        "type": "TYPO",
+        "text": "butterfli"
+      }
+    ]
+  },
+  {
+    "id": "b56771e7-804f-5fc9-9da0-458381217ca7",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "ryba a hranolky"
+    },
+    "target": {
+      "language": "en",
+      "text": "fish and chips",
+      "variants": [],
+      "sound": {
+        "id": "f8cc2c7f-32df-5d16-b95f-498e71f8f0aa",
+        "filename": "fish & chips 🐟🍟.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "bangers and mash"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "roast beef"
+      }
+    ]
+  },
+  {
+    "id": "9b663f11-4b2e-5019-acea-2a77e5c1ba3a",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "domácí úkol"
+    },
+    "target": {
+      "language": "en",
+      "text": "homework",
+      "variants": [],
+      "sound": null
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "test"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "lesson"
+      },
+      {
+        "type": "TYPO",
+        "text": "homewrok"
+      }
+    ]
+  },
+  {
+    "id": "2e9b6bed-9b6f-57af-9759-efcab1fcf0ba",
+    "cefr_level": "A1",
+    "part_of_speech": "ADJECTIVE",
+    "source": {
+      "language": "cs",
+      "text": "modrý"
+    },
+    "target": {
+      "language": "en",
+      "text": "blue",
+      "variants": [],
+      "sound": {
+        "id": "55e7177d-1579-5bf2-b568-f0b699c37657",
+        "filename": "BLUE 🔵.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "green"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "red"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "yellow"
+      },
+      {
+        "type": "TYPO",
+        "text": "bleu"
+      },
+      {
+        "type": "TYPO",
+        "text": "bloo"
+      }
+    ]
+  },
+  {
+    "id": "624da659-1f85-5eec-99fd-8e2134178175",
+    "cefr_level": "A1",
+    "part_of_speech": "NUMERAL",
+    "source": {
+      "language": "cs",
+      "text": "sedm"
+    },
+    "target": {
+      "language": "en",
+      "text": "seven",
+      "variants": [],
+      "sound": {
+        "id": "f6a97b15-95b7-5344-b1f1-87743ebbd552",
+        "filename": "7️⃣ seven.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "six"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "eleven"
+      },
+      {
+        "type": "TYPO",
+        "text": "sevn"
+      }
+    ]
+  },
+  {
+    "id": "e0d60565-c898-5f8e-a74d-ce1627084d7f",
+    "cefr_level": "A2",
+    "part_of_speech": "VERB",
+    "source": {
+      "language": "cs",
+      "text": "čistit si zuby"
+    },
+    "target": {
+      "language": "en",
+      "text": "to brush your teeth",
+      "variants": [
+        "brush your teeth",
+        "brushes his teeth",
+        "brushing my teeth"
+      ],
+      "sound": null
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "to wash your face"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "to comb your hair"
+      }
+    ]
+  },
+  {
+    "id": "7bd27d9c-935d-590e-b8a8-be3ed202d4b3",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "duha"
+    },
+    "target": {
+      "language": "en",
+      "text": "rainbow",
+      "variants": [
+        "a rainbow",
+        "rainbows"
+      ],
+      "sound": {
+        "id": "144e49f3-dbd7-56ea-b882-8228e73987de",
+        "filename": "🌈.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "cloud"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "storm"
+      },
+      {
+        "type": "TYPO",
+        "text": "rainbo"
+      },
+      {
+        "type": "TYPO",
+        "text": "ranbow"
+      }
+    ]
+  },
+  {
+    "id": "93eb9d83-e54c-5cd1-a9e7-c64a6ee6e21b",
+    "cefr_level": "A1",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "pomeranč"
+    },
+    "target": {
+      "language": "en",
+      "text": "orange",
+      "variants": [
+        "an orange",
+        "oranges"
+      ],
+      "sound": null
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "lemon"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "peach"
+      },
+      {
+        "type": "TYPO",
+        "text": "orenge"
+      }
+    ]
+  },
+  {
+    "id": "c8051aca-945c-53bf-8237-762888a19198",
+    "cefr_level": "A1",
+    "part_of_speech": "ADJECTIVE",
+    "source": {
+      "language": "cs",
+      "text": "oranžový"
+    },
+    "target": {
+      "language": "en",
+      "text": "orange",
+      "variants": [],
+      "sound": null
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "purple"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "pink"
+      },
+      {
+        "type": "TYPO",
+        "text": "orenge"
+      }
+    ]
+  },
+  {
+    "id": "aa440bc1-9b4f-5f99-adac-7e17b713ffe7",
+    "cefr_level": "A1",
+    "part_of_speech": "PHRASE",
+    "source": {
+      "language": "cs",
+      "text": "ahoj"
+    },
+    "target": {
+      "language": "en",
+      "text": "hello",
+      "variants": [
+        "hi"
+      ],
+      "sound": {
+        "id": "a80a0f75-c233-5311-83ad-f5dd7669a0aa",
+        "filename": "\"hello\" 👋 (Emma's voice).mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "goodbye"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "good night"
+      },
+      {
+        "type": "TYPO",
+        "text": "helo"
+      },
+      {
+        "type": "TYPO",
+        "text": "hallo"
+      }
+    ]
+  },
+  {
+    "id": "177d4531-9634-5449-a7cb-d565dd49d284",
+    "cefr_level": "A2",
+    "part_of_speech": "NOUN",
+    "source": {
+      "language": "cs",
+      "text": "knihovna"
+    },
+    "target": {
+      "language": "en",
+      "text": "library",
+      "variants": [
+        "a library",
+        "libraries"
+      ],
+      "sound": {
+        "id": "5aaccca7-489e-563c-864f-8a5f26ce1375",
+        "filename": "library 📚, quiet version.mp3"
+      }
+    },
+    "distractors": [
+      {
+        "type": "SEMANTIC",
+        "text": "bookshop"
+      },
+      {
+        "type": "SEMANTIC",
+        "text": "museum"
+      },
+      {
+        "type": "TYPO",
+        "text": "libary"
+      },
+      {
+        "type": "TYPO",
+        "text": "librery"
+      }
+    ]
+  }
+]
