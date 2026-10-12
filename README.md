@@ -3,7 +3,7 @@
 
 23 slov má nahrávku, 7 slov nahrávku nemá.
 
-Anglické slova se porovnávají s textem nahrávky. Při
+Anglická slova se porovnávají s textem nahrávky. Při
 porovnání:
 - nezáleží na velkých a malých písmenech 
 - ignorují se mezery na začátku a konci
@@ -15,7 +15,7 @@ různými způsoby).
 
 - Obě slova „bat“ (netopýr i pálka) sdílejí jednu nahrávku, protože se
 vyslovují stejně.
-- „orange“ (mandarinka i oranžový) je v seznamu chybějících dvakrát, protože jde
+- „orange“ (pomeranč i oranžový) je v seznamu chybějících dvakrát, protože jde
   o dvě různá slova s vlastním id.
 - Varianty (např. „run“ u „to run“) se pro hledání nahrávky nepoužívají
 - Slova bez nahrávky mají ve JSON `"sound": null`.
